@@ -1,1 +1,1 @@
-[test](./test OK!.md)
+[test](./test OK!)
